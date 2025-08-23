@@ -56,10 +56,4 @@ This project showcases a comprehensive analysis of sales data using Power BI and
 - **Excel** – Initial data prep and KPI tracking
 - **GitHub** – Version control and collaboration
 
----
 
-## 🚀 Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/sales-data-analytics-dashboard.git
