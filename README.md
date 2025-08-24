@@ -1,8 +1,8 @@
 # 📊 Sales Data Analytics Dashboard
 
-![img1](img1.png)
-![img2](img2.png)
-![img3](img3.png)
+![img1](img1.PNG)
+![img2](img2.PNG)
+![img3](img3.PNG)
 
 ## Overview
 
